@@ -1,10 +1,10 @@
-# Power BI Dashboard - EuropianStoreAnalysis
+# Power BI Dashboard - EuropeanStoreAnalysis
 
 ![Screenshot 2024-09-30 122636](https://github.com/user-attachments/assets/61d39336-b33b-43ac-af68-27355cb9ff40)
 
 ### 1. Overview
 #### Purpose:
-The EuropianStoreAnalysis dashboard provides insights about the city branch of Europian multi-city store. Report consist spending score as pefamily size, working experience, and profession. It aims to help stores local management to create the offer, and company stakeholder's to make data-driven decisions by visualizing trends, KPIs, and other critical data points.
+The EuropeanStoreAnalysis dashboard provides insights about the city branch of European multi-city store. Report consist spending score as pefamily size, working experience, and profession. It aims to help stores local management to create the offer, and company stakeholder's to make data-driven decisions by visualizing trends, KPIs, and other critical data points.
 #### Audience:
 This dashboard is intended for use by any of the sales team, store management and stakeholders.
 #### Approach:
@@ -38,7 +38,7 @@ Each metric provides critical insights into the performance of teams. These metr
 
 ### 4. Instructions for Use
 #### Accessing the Dashboard:
-- Open EuropianStoreAnalysis.pbix into Power BI Desktop to view the dashboard.
+- Open EuropeanStoreAnalysis.pbix into Power BI Desktop to view the dashboard.
 - When dashboard is fully loaded successfully, you can interact with the data.
 
 ### 5. Contact Information
