@@ -1,6 +1,6 @@
 # Power BI Dashboard - EuropeanStoreAnalysis
 
-![Screenshot 2024-09-30 122636](https://github.com/user-attachments/assets/61d39336-b33b-43ac-af68-27355cb9ff40)
+![Screenshot 2024-10-01 001614](https://github.com/user-attachments/assets/28fd1b9d-afb7-4d5d-8f1b-cd0b6fd67214)
 
 ### 1. Overview
 #### Purpose:
